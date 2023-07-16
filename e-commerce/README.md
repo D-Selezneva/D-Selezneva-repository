@@ -10,7 +10,11 @@
 *******
 Библиотеки: pandas, numpy, seaborn  
 ***********
-![Тепловая карта метрики retention](https://disk.yandex.ru/i/bg9mRfZ1gEn6ww)
+### Тепловая карта метрики retention  
+![Тепловая карта метрики retention](https://sun9-1.userapi.com/impg/aTxObznb7IGKPI2xl4mysy3yrRLQc5iezWQE3A/IADY9oAlEqE.jpg?size=1515x895&quality=96&sign=2ab48dcd96cb5375fbbac653f3d35087&type=album)
+
+### RFM-сегментация пользователей   
+![RFM](https://sun9-13.userapi.com/impg/_cfLNAaA0BtgxMspuk156q-TOAutx1qBSmDVew/tOoKDsaj2_o.jpg?size=714x433&quality=96&sign=68a239623c83e2ed0565cdd107e14e23&type=album)
 
 ### Используемые данные:
 ####  olist_customers_datase.csv — таблица с уникальными идентификаторами пользователей:
